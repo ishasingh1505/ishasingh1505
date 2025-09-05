@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isha
 - 👀 I’m interested in learning new things in various fields with emphasis on ML.
-- 🌱 I’m currently a second year (Maths&computing) UG student at IIT Jammu.
+- 🌱 I’m currently a third year (Maths&computing) UG student at IIT Jammu.
 
 
 
